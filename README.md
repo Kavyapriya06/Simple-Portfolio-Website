@@ -1,5 +1,5 @@
 # Simple-portfolio-website
-Simple portfolio website developed with JTML and basic CSS.
+Simple portfolio website developed with HTML and basic CSS.
 
 The project was created to strengthen my web development fundamentals and to provide a professional platform for presenting my qualifications and accomplishments.
 
