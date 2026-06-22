@@ -25,4 +25,6 @@ iii.Easy navigation between pages
 iv.Contact form
 v.Social media integration
 
+LIVE PROJECT LINK:https://kavyapriya06.github.io/Simple-portfolio-website/
+
 Thankyou for visiting my webpage!!
